@@ -1,0 +1,10 @@
+.wrapper {
+  width: 320px;
+  height: 450px;
+  padding: 10px;
+  border-radius: 10px;
+
+ /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  rgba(50,48,76,1) 0%,rgba(17,12,50,1) 100%);
+ 
+}

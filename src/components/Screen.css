@@ -1,0 +1,15 @@
+.screen {
+  height: 100px;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  background: rgb(50,48,76);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  font-weight: bold;
+  box-sizing: border-box;
+  background: -moz-linear-gradient(-45deg,  rgba(50,48,76,1) 20%, rgba(17,12,50,1) 90%);
+}

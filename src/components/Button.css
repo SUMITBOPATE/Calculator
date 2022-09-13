@@ -1,0 +1,27 @@
+button {
+  border: none;
+font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  background-color: #D3B04D;
+  color: #221C0C;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 16px;
+  outline: none;
+}
+
+
+  button:hover {
+    background-color:  rgb(239,235,239);;
+  color: #221C0C;
+  }
+
+
+.equals {
+  grid-column: 3 / 5;
+  background-color: rgb(243, 61, 29);
+}
+
+.equals:hover {
+  background-color: rgb(228, 39, 15);
+}
